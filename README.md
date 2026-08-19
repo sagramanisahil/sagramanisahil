@@ -20,7 +20,7 @@ I build practical AI systems, data-driven solutions, and intelligent automation 
 
 ## 👨‍💻 About Me
 
-I’m a Computer Science undergraduate at **Sukkur IBA University** (CGPA: **3.34**) with a strong focus on **Machine Learning, Data Science, LLMs, and Agentic AI**.
+I’m a final year Computer Science undergraduate at **Sukkur IBA University** (CGPA: **3.34**) with a strong focus on **Machine Learning, Data Science, LLMs, and Agentic AI**.
 
 - ✅ Built and delivered AI/ML and analytics solutions for real clients on Fiverr  
 - ✅ Solved **290+ LeetCode problems** in DS&A, Python, Java, and SQL  
