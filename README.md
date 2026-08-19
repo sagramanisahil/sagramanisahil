@@ -124,4 +124,5 @@ Power BI, Tableau, Excel, Matplotlib, Seaborn
 - Python Programming Fundamentals  
 - Deloitte Data Analytics Certificate  
 - ChatGPT Prompt Engineering for Developers  
-- Agent Skills with Anthropic
+- Agent Skills with Anthropic  
+- Kazinex Technical Internship Program Certificate of Completion
