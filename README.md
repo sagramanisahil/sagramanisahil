@@ -38,6 +38,12 @@ I’m a final year Computer Science undergraduate at **Sukkur IBA University** (
 - Reduced manual client workflows by **60%+** through Python-based automation.
 - Managed full project lifecycle independently (requirements → modeling → deployment).
 
+### **Data Analytics Intern — Kazinex** (Remote, Sharjah, UAE)  
+**Jun 2026 – Jul 2026 · 8 Weeks**
+- Completed an intensive internship focused on real-world technical workflows.
+- Supported project delivery through data analysis, task ownership, and team collaboration.
+- Earned an official **Certificate of Completion**.
+
 ### **Deloitte Australia Data Analytics Job Simulation (Forage)**  
 **Oct 2025**
 - Performed forensic-style data analysis and anomaly detection.
